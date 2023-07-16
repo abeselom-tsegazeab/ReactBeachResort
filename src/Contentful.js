@@ -4,4 +4,4 @@ export default createClient({
     accessToken: import.meta.env.VITE_REACT_APP_ACCESS_TOKEN,
 })
 
-// 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
+// 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
