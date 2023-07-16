@@ -3,7 +3,7 @@ import defaultBCg from '../images/room-1.jpeg'
 import Hero from '../components/Hero'
 import Banner from '../components/Banner'
 import { Link,useParams } from 'react-router-dom'
-import { RoomContext } from '../Context'
+import { RoomContext } from '../context'
 import StyledHero from '../components/StyledHero'
 class SingleRoom extends Component {
   constructor(props){
